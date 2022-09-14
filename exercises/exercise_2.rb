@@ -5,3 +5,5 @@ def is_adult?(age)
     return 'not adult'
   end
 end
+
+p is_adult?(10)
